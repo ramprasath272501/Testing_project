@@ -27,6 +27,13 @@ class DriverFactory:
             options.add_argument("--disable-dev-shm-usage")
             options.add_argument("--disable-gpu")
             options.add_argument("--window-size=1920,1080")
+            # Suppress notifications / pop-ups / ad interstitials that can
+            # otherwise intercept clicks on the demo site.
+            options.add_argument("--disable-notifications")
+            options.add_argument("--disable-popup-blocking")
+            options.add_experimental_option(
+                "prefs", {"profile.default_content_setting_values.notifications": 2}
+            )
             driver = webdriver.Chrome(options=options)
 
         elif browser == "firefox":

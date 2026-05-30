@@ -5,7 +5,10 @@ time.sleep(), which is what keeps a Selenium suite fast and non-flaky.
 """
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import (
+    TimeoutException,
+    ElementClickInterceptedException,
+)
 
 from utils.config_reader import ConfigReader
 from utils.logger import get_logger
@@ -32,7 +35,18 @@ class BasePage:
         return self.wait.until(EC.presence_of_element_located(locator))
 
     def click(self, locator):
-        self.wait.until(EC.element_to_be_clickable(locator)).click()
+        element = self.wait.until(EC.element_to_be_clickable(locator))
+        try:
+            element.click()
+        except ElementClickInterceptedException:
+            # An ad/consent overlay sometimes covers the target on this site.
+            # Scroll it into view and fall back to a JS click so the suite
+            # stays reliable in headless CI.
+            logger.warning("Click intercepted on %s - retrying via JS", locator)
+            self.driver.execute_script(
+                "arguments[0].scrollIntoView({block: 'center'});", element
+            )
+            self.driver.execute_script("arguments[0].click();", element)
 
     def type(self, locator, text):
         element = self.wait.until(EC.visibility_of_element_located(locator))
