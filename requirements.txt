@@ -1,0 +1,10 @@
+# Core automation stack
+selenium>=4.20.0
+pytest>=8.0.0
+
+# Reporting
+pytest-html>=4.1.1
+allure-pytest>=2.13.5
+
+# Parallel execution
+pytest-xdist>=3.5.0
