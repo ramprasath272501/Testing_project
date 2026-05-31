@@ -1,0 +1,199 @@
+%PDF-1.4
+%ту╧╙
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 7355 >>
+stream
+0.110 0.200 0.400 rg
+BT /F2 19.00 Tf 222.68 772.89 Td (RAMPRASATH V) Tj ET
+0 0 0 rg
+BT /F1 11.50 Tf 210.81 758.39 Td (QA Automation Engineer  |  SDET) Tj ET
+BT /F1 8.70 Tf 140.21 746.19 Td (Tiruppur, Tamil Nadu 641667  |  +91-9976197329  |  ramprasath2725@gmail.com) Tj ET
+BT /F1 8.70 Tf 137.91 734.69 Td (linkedin.com/in/ramprasath-venkatachalam12725  |  github.com/ramprasath272501) Tj ET
+0.110 0.200 0.400 RG
+1.10 w 52.00 733.39 m 543.28 733.39 l S
+0 0 0 RG
+0.110 0.200 0.400 rg
+BT /F2 10.50 Tf 52.00 709.89 Td (PROFESSIONAL SUMMARY) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 RG
+0.90 w 52.00 705.89 m 543.28 705.89 l S
+0 0 0 RG
+BT /F1 9.50 Tf 52.00 688.39 Td (QA Automation Engineer / SDET with 2.9 years of experience in manual and automation testing of web applications.) Tj ET
+BT /F1 9.50 Tf 52.00 675.89 Td (Skilled in building scalable PyTest automation frameworks using Selenium WebDriver \(Python\) with Page Object) Tj ET
+BT /F1 9.50 Tf 52.00 663.39 Td (Model \(POM\). Experienced in REST API testing with Postman, CI/CD integration with Jenkins, SQL validation, and) Tj ET
+BT /F1 9.50 Tf 52.00 650.89 Td (defect lifecycle management in Jira. Reduced regression execution effort by ~60% through automation. ISTQB) Tj ET
+BT /F1 9.50 Tf 52.00 638.39 Td (Foundation and AWS Cloud Practitioner certified.) Tj ET
+0.110 0.200 0.400 rg
+BT /F2 10.50 Tf 52.00 617.89 Td (TECHNICAL SKILLS) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 RG
+0.90 w 52.00 613.89 m 543.28 613.89 l S
+0 0 0 RG
+BT /F2 9.50 Tf 52.00 596.39 Td (Languages:) Tj ET
+BT /F1 9.50 Tf 148.00 596.39 Td (Python, SQL) Tj ET
+BT /F2 9.50 Tf 52.00 583.89 Td (Automation:) Tj ET
+BT /F1 9.50 Tf 148.00 583.89 Td (Selenium WebDriver, PyTest, Page Object Model \(POM\), Data-Driven & Keyword-Driven) Tj ET
+BT /F1 9.50 Tf 148.00 571.39 Td (Frameworks, Playwright \(learning\)) Tj ET
+BT /F2 9.50 Tf 52.00 558.89 Td (API Testing:) Tj ET
+BT /F1 9.50 Tf 148.00 558.89 Td (REST API, Postman \(status codes, JSON schema / payload validation, error handling\)) Tj ET
+BT /F2 9.50 Tf 52.00 546.39 Td (CI/CD & Tools:) Tj ET
+BT /F1 9.50 Tf 148.00 546.39 Td (Jenkins, Git, GitHub, AWS, Linux) Tj ET
+BT /F2 9.50 Tf 52.00 533.89 Td (Test Mgmt:) Tj ET
+BT /F1 9.50 Tf 148.00 533.89 Td (Jira, HTML Reports \(pytest-html\)) Tj ET
+BT /F2 9.50 Tf 52.00 521.39 Td (Testing Types:) Tj ET
+BT /F1 9.50 Tf 148.00 521.39 Td (Functional, Regression, Sanity, End-to-End, Integration, Cross-Browser, Production) Tj ET
+BT /F1 9.50 Tf 148.00 508.89 Td (Validation \(PVT\)) Tj ET
+BT /F2 9.50 Tf 52.00 496.39 Td (Methodologies:) Tj ET
+BT /F1 9.50 Tf 148.00 496.39 Td (Agile \(Scrum\), SDLC, STLC, Defect Life Cycle) Tj ET
+0.110 0.200 0.400 rg
+BT /F2 10.50 Tf 52.00 475.89 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 RG
+0.90 w 52.00 471.89 m 543.28 471.89 l S
+0 0 0 RG
+BT /F2 10.50 Tf 52.00 453.39 Td (Test Automation Engineer  |  Tech Mahindra) Tj ET
+0.110 0.200 0.400 rg
+BT /F3 9.00 Tf 52.00 441.89 Td (Client: Rogers Communications     |     Sep 2023 - Present     |     Tiruppur, India) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 426.89 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 426.89 Td (Built and maintained a PyTest regression automation suite using Page Object Model \(POM\), automating 200+ test) Tj ET
+BT /F1 9.50 Tf 64.00 414.59 Td (cases and reducing manual regression effort by ~60% across release cycles.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 402.29 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 402.29 Td (Developed Selenium WebDriver \(Python\) automation scripts to validate web applications, improving execution) Tj ET
+BT /F1 9.50 Tf 64.00 389.99 Td (speed and ensuring consistent coverage across core modules.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 377.69 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 377.69 Td (Performed REST API testing using Postman - created and executed requests, validated JSON payloads and) Tj ET
+BT /F1 9.50 Tf 64.00 365.39 Td (HTTP status codes, and tested error-handling scenarios for service APIs.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 353.09 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 353.09 Td (Designed and executed End-to-End \(E2E\) test scenarios covering complete workflows across provisioning, billing,) Tj ET
+BT /F1 9.50 Tf 64.00 340.79 Td (and account management modules.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 328.49 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 328.49 Td (Integrated automated regression suites into Jenkins CI/CD pipelines for continuous testing and faster feedback on) Tj ET
+BT /F1 9.50 Tf 64.00 316.19 Td (every build and deployment.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 303.89 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 303.89 Td (Analyzed application logs on AWS to debug failed test scenarios and support production issue analysis.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 291.59 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 291.59 Td (Executed Production Validation Testing \(PVT\) after each deployment to confirm release stability in the production) Tj ET
+BT /F1 9.50 Tf 64.00 279.29 Td (environment.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 266.99 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 266.99 Td (Managed the full defect lifecycle in Jira - logged defects with clear reproduction steps, severity, and screenshots,) Tj ET
+BT /F1 9.50 Tf 64.00 254.69 Td (and collaborated with developers to track and verify fixes.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 242.39 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 242.39 Td (Performed cross-browser testing across Chrome, Firefox, and Edge to ensure consistent application behaviour.) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 230.09 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 230.09 Td (Participated in Agile Scrum ceremonies - sprint planning, daily stand-ups, and retrospectives - sharing testing) Tj ET
+BT /F1 9.50 Tf 64.00 217.79 Td (updates and effort estimates.) Tj ET
+0.110 0.200 0.400 rg
+BT /F2 10.50 Tf 52.00 197.49 Td (PROJECTS) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 RG
+0.90 w 52.00 193.49 m 543.28 193.49 l S
+0 0 0 RG
+BT /F2 10.00 Tf 52.00 175.49 Td (Hybrid UI Automation Framework - Selenium + Python \(PyTest, POM\)) Tj ET
+0.110 0.200 0.400 rg
+BT /F3 9.00 Tf 52.00 163.99 Td (github.com/ramprasath272501/Testing_project) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 150.49 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 150.49 Td (Open-source UI automation framework with POM architecture, explicit waits, data-driven tests,) Tj ET
+BT /F1 9.50 Tf 64.00 138.19 Td (screenshot-on-failure reporting, and a GitHub Actions CI pipeline that runs the suite on every push.) Tj ET
+0.110 0.200 0.400 rg
+BT /F2 10.50 Tf 52.00 117.89 Td (EDUCATION) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 RG
+0.90 w 52.00 113.89 m 543.28 113.89 l S
+0 0 0 RG
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 96.39 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 96.39 Td (Master of Computer Applications \(MCA\) - Kalasalingam University  |  Expected 2026  |  CGPA: 8.0) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 84.09 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 84.09 Td (B.Sc. Computer Technology - Dr. N.G.P Arts and Science College  |  2019 - 2022  |  CGPA: 7.5) Tj ET
+0.110 0.200 0.400 rg
+BT /F2 10.50 Tf 52.00 63.79 Td (CERTIFICATIONS & ACHIEVEMENTS) Tj ET
+0 0 0 rg
+0.110 0.200 0.400 RG
+0.90 w 52.00 59.79 m 543.28 59.79 l S
+0 0 0 RG
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.890] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 570 >>
+stream
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 782.39 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 782.39 Td (ISTQB Foundation Level - International Software Testing Qualifications Board) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 770.09 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 770.09 Td (AWS Certified Cloud Practitioner - Amazon Web Services) Tj ET
+0.110 0.200 0.400 rg
+BT /F1 9.50 Tf 54.00 757.79 Td (Х) Tj ET
+0 0 0 rg
+BT /F1 9.50 Tf 64.00 757.79 Td (Bravo Award \(Tech Mahindra\) - Recognized for contribution to testing quality during application releases.) Tj ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.890] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000431 00000 n 
+0000007838 00000 n 
+0000007992 00000 n 
+0000008613 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+8767
+%%EOF
